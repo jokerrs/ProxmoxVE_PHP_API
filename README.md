@@ -43,12 +43,14 @@
   - [Tasks](#tasks)
   - [Vzdump](#vzdump)
 
+## Update
+This is an updated proxmox-ve_php_api from saleh7/proxmox-ve_php_api
 
 ## Installation
 To install ProxmoxVE_PHP_API, simply:
 
 ```bash
-composer require saleh7/proxmox-ve_php_api
+composer require jokerrs/proxmox-ve_php_api
 ```
 
 ## Usage
