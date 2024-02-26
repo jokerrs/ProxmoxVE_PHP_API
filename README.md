@@ -46,6 +46,8 @@
 ## Update
 This is an updated proxmox-ve_php_api from saleh7/proxmox-ve_php_api
 
+#### Suppport PHP 8.1
+
 ## Installation
 To install ProxmoxVE_PHP_API, simply:
 
