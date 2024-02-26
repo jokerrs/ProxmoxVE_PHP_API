@@ -52,7 +52,7 @@ This is an updated proxmox-ve_php_api from saleh7/proxmox-ve_php_api
 To install ProxmoxVE_PHP_API, simply:
 
 ```bash
-composer require jokerrs/proxmox-ve_php_api
+composer require jokerrs/proxmox-ve_php_api:dev-master
 ```
 
 ## Usage
